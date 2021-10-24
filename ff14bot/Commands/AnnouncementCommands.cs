@@ -8,7 +8,7 @@ using System.Timers;
 using DSharpPlus.CommandsNext;
 using DSharpPlus.CommandsNext.Attributes;
 
-namespace TRUCSBot.Commands
+namespace FF14Bot.Commands
 {
     public class AnnouncementCommands : BaseCommandModule
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TRUCSBot
+namespace FF14Bot
 {
     public static class Extensions
     {

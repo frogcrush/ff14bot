@@ -9,7 +9,7 @@ using DSharpPlus.CommandsNext.Attributes;
 using DSharpPlus.Entities;
 using Microsoft.Extensions.Logging;
 
-namespace TRUCSBot.Commands
+namespace FF14Bot.Commands
 {
     [Description("Role Commands")]
     public class RoleCommands : BaseCommandModule

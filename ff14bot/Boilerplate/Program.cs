@@ -2,7 +2,7 @@
 using System.Threading;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace TRUCSBot
+namespace FF14Bot
 {
     internal class Program
     {

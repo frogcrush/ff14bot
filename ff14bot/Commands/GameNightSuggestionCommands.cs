@@ -13,7 +13,7 @@ using IGDB.Models;
 
 using Microsoft.Extensions.Logging;
 
-namespace TRUCSBot.Commands
+namespace FF14Bot.Commands
 {
     public class GameNightSuggestionCommands : BaseCommandModule
     {

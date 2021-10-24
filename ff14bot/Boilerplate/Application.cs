@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace TRUCSBot
+namespace FF14Bot
 {
     public partial class Application
     {

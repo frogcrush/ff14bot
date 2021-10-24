@@ -10,7 +10,7 @@ using DSharpPlus.Entities;
 
 using Microsoft.Extensions.Logging;
 
-namespace TRUCSBot.Commands
+namespace FF14Bot.Commands
 {
     /// <summary>
     /// This class handles administrative commands, that should require admin roles.

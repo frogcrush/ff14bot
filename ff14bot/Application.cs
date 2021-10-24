@@ -15,7 +15,7 @@ using Newtonsoft.Json;
 
 using TylorsTech.SimpleJsonSettings;
 
-namespace TRUCSBot
+namespace FF14Bot
 {
     /// <summary>
     /// Main application class.
@@ -94,7 +94,7 @@ namespace TRUCSBot
         /// <param name="args">List of command line arguments</param>
         public async void OnStartup(string[] args)
         {
-            _logger.LogInformation("Starting the TRUSU CS Club Discord bot...");
+            _logger.LogInformation("Starting the Discord bot...");
             _logger.LogInformation($"Runtime directory: {Environment.CurrentDirectory}");
 
             CheckArgs(args);
@@ -130,7 +130,6 @@ namespace TRUCSBot
 
             DiscordCommands.RegisterCommands<Commands.AdministrativeCommands>();
             DiscordCommands.RegisterCommands<Commands.AnnouncementCommands>();
-            DiscordCommands.RegisterCommands<Commands.BoardCommands>();
             DiscordCommands.RegisterCommands<Commands.BotCommands>();
             DiscordCommands.RegisterCommands<Commands.GameNightSuggestionCommands>();
             DiscordCommands.RegisterCommands<Commands.InteractionCommands>();

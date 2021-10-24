@@ -7,7 +7,7 @@ using DSharpPlus.CommandsNext;
 using DSharpPlus.Entities;
 using DSharpPlus.EventArgs;
 
-namespace TRUCSBot
+namespace FF14Bot
 {
     /// <summary>
     /// Manages current roles that are loaded from settings. Also handles sending the reaction messages to chat.

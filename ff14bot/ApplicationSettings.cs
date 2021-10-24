@@ -8,7 +8,7 @@ using DSharpPlus.Entities;
 
 using Newtonsoft.Json;
 
-namespace TRUCSBot
+namespace FF14Bot
 {
     public class ApplicationSettings : TylorsTech.SimpleJsonSettings.StronglyTypedSettingsDefinition
     {

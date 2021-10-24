@@ -7,7 +7,7 @@ using DSharpPlus.CommandsNext;
 using DSharpPlus.CommandsNext.Attributes;
 using DSharpPlus.Entities;
 
-namespace TRUCSBot.Commands
+namespace FF14Bot.Commands
 {
     public class TestCommands : BaseCommandModule
     {

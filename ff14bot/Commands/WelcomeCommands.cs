@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using DSharpPlus.CommandsNext;
 using DSharpPlus.CommandsNext.Attributes;
 
-namespace TRUCSBot.Commands
+namespace FF14Bot.Commands
 {
     public class WelcomeCommands : BaseCommandModule
     {
